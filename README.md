@@ -14,7 +14,7 @@ Create a new PostgreSQL database for the application on your local machine or a 
 
 ## Add Connection String to .env File
 
-Navigate to the notes-app-server directory and create a .env file with the following content:
+Create a .env file with the following content:
 
 `DATABASE_URL="postgresql://<username>:<password>@<host>:<port>/<dbname>?schema=public"`
 
